@@ -1,0 +1,7 @@
+c:\users\шипиловд.corp\source\repos\hw16\hw16\bin\Debug\hw16.exe.config
+c:\users\шипиловд.corp\source\repos\hw16\hw16\bin\Debug\hw16.exe
+c:\users\шипиловд.corp\source\repos\hw16\hw16\bin\Debug\hw16.pdb
+c:\users\шипиловд.corp\source\repos\hw16\hw16\obj\Debug\hw16.csprojAssemblyReference.cache
+c:\users\шипиловд.corp\source\repos\hw16\hw16\obj\Debug\hw16.csproj.CoreCompileInputs.cache
+c:\users\шипиловд.corp\source\repos\hw16\hw16\obj\Debug\hw16.exe
+c:\users\шипиловд.corp\source\repos\hw16\hw16\obj\Debug\hw16.pdb
